@@ -8,5 +8,6 @@ Currently building projects with FastAPI, PostgreSQL, Docker, and cloud tooling 
 - Mini IT platform for infrastructure/cloud practice
 - Interactive portfolio website using Three.js
 
-# Contact
+# Links
 LinkedIn: https://www.linkedin.com/in/basit-khan-202616247/
+Website: https://minimialist-website.vercel.app/
