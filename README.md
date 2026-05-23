@@ -1,6 +1,6 @@
 # Hi, I'm Basit
 
-Computer Science student focused on backend, infrastructure/cloud, and security engineering.
+Computer Science student at Wilfrid Laurier University (WLU) focused on backend, infrastructure/cloud, and security engineering.
 Currently building projects with FastAPI, PostgreSQL, Docker, and cloud tooling while preparing for Winter 2027 co-op opportunities.
 
 # WIP Projects
