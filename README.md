@@ -10,4 +10,4 @@ Currently building projects with FastAPI, PostgreSQL, Docker, and cloud tooling 
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/basit-khan-202616247/
-- Website: https://basitkhan.vercel.app/
+- Website: https://www.basitkhan.dev/
