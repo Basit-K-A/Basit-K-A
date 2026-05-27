@@ -1,8 +1,10 @@
 # こんにちは, I'm Basit 👋
 
-I'm a Computer Science student at Wilfrid Laurier University (WLU) focused on backend systems, infrastructure/cloud, and security engineering.
+I'm a Computer Science student at Wilfrid Laurier University (WLU) focused on backend systems, infrastructure/cloud, and security engineering. 
 
 Currently building practical projects with FastAPI, PostgreSQL, Docker, and Linux while preparing for Winter 2027 co-op opportunities.
+
+Learning Japanese through immersion, media, and daily study alongside software development.
 
 ---
 
