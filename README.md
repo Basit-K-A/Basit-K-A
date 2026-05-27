@@ -1,35 +1,35 @@
-```bash
-basit@github
--------------------------
-OS: Wilfrid Laurier University CS Student
-Host: Backend / Infrastructure / Security
-Kernel: Winter 2027 Co-op Preparation
-Uptime: Building projects daily
-Shell: FastAPI / Docker / Linux
-Terminal: PostgreSQL
-Theme: Minimal & Functional
-Languages: Python, Java, SQL, JavaScript
-Learning: Cloud Infrastructure, DevOps, Security
-Focus: Backend Engineering & Systems
+# こんにちは, I'm Basit 👋
 
-Projects
--------------------------
-> Audit logging system with FastAPI
-> Mini IT platform for infrastructure/cloud practice
-> Interactive Three.js portfolio website
+I'm a Computer Science student at Wilfrid Laurier University (WLU) focused on backend systems, infrastructure/cloud, and security engineering.
 
-Tech Stack
--------------------------
-Backend     :: FastAPI, PostgreSQL
-Infrastructure :: Docker, Linux, Nginx
-Frontend    :: Three.js, Next.js
-Tools       :: Git, GitHub, REST APIs
+Currently building practical projects with FastAPI, PostgreSQL, Docker, and Linux while preparing for Winter 2027 co-op opportunities.
 
-Links
--------------------------
-LinkedIn :: https://www.linkedin.com/in/basit-khan-202616247/
-Website  :: https://www.basitkhan.dev/
+---
 
-Status
--------------------------
-[▓▓▓▓▓▓▓▓▓░] Building infrastructure & backend projects
+## Projects
+
+- Audit logging system with FastAPI
+- Mini IT platform for infrastructure/cloud practice
+- Interactive Three.js portfolio website
+
+---
+
+## Tech
+
+```txt
+Backend      → FastAPI, PostgreSQL
+Infrastructure → Docker, Linux, Nginx
+Frontend     → Next.js, Three.js
+Learning     → Cloud, DevOps, Security
+```
+
+---
+
+## Links
+
+Website → https://www.basitkhan.dev/  
+LinkedIn → https://www.linkedin.com/in/basit-khan-202616247/
+
+```txt
+Build useful things. Learn systems deeply.
+```
