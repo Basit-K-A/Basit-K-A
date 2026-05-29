@@ -8,22 +8,11 @@ Learning Japanese through immersion, media, and daily study alongside software d
 
 ---
 
-## Projects
+## WIP Projects
 
 - Audit logging system with FastAPI
 - Mini IT platform for infrastructure/cloud practice
 - Interactive Three.js portfolio website
-
----
-
-## Tech
-
-```txt
-Backend      → FastAPI, PostgreSQL
-Infrastructure → Docker, Linux, Nginx
-Frontend     → Next.js, Three.js
-Learning     → Cloud, DevOps, Security
-```
 
 ---
 
